@@ -1,0 +1,15 @@
+{
+  "name": "npm-install-dev",
+  "version": "1.0.0",
+  "description": "Debugging your react-native modules like a charm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+      "npm-install-dev": "index.js"
+  },
+  "author": "captainteemo",
+  "license": "ISC",
+  "dependencies": {}
+}
