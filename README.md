@@ -1,3 +1,3 @@
 # npm-install-dev
 
-A command-line tool to help develop react-native modules.
+A command-line tool to help developing react-native modules.
